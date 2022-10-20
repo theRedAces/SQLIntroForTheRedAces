@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="update_record">Update Record</string>
+    <string name="name">Name</string>
+    <string name="enter_name">Enter Name</string>
+    <string name="email_id">Email ID</string>
+    <string name="enter_email_id">Enter Email ID</string>
+    <string name="update">UPDATE</string>
+    <string name="cancel">CANCEL</string>
+</resources>
